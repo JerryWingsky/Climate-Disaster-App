@@ -1,5 +1,7 @@
 # Climate Disaster App ⚙️
 
+📄 Licensed under CC BY-NC 4.0 — For educational & non-commercial use only.
+
 ## Overview ✨ 
 
 **Climate Disaster App**, an intelligent environmental app designed to help you navigate a world facing climate uncertainty. Whether you're tracking disasters, learning how to stay safe, or raising awareness, this app stands by your side—informative, responsive, and built with care. With the Climate Disaster App, preparedness isn’t just practical—it’s empowering.
