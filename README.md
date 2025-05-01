@@ -106,7 +106,7 @@ Frontend:
 - Java Swing (`JFrame`, `JPanel`, `JButton`, `JTextField`, `JLabel`, `JOptionPane`, etc).
 
 Backend:
-- Java (`if-else`, `switch`, `ArrayList`, `try-catch, etc).
+- Java (`if-else`, `switch`, `ArrayList`, `try-catch`, etc).
 
 ## Contributors 👥
 1. Jerry Wingsky ([@jrywsky](https://linktr.ee/JerryWingsky)) - Backend Web Developer, Frontend Web Developer, UI/EX Designer, and Documentation
