@@ -104,6 +104,7 @@
 ## Coding Information 🛠
 Frontend:
 - Java Swing (JFrame, JPanel, JButton, JTextField, JLabel, JOptionPane, etc).
+
 Backend:
 - Java (if-else, switch, ArrayList, try-catch, etc).
 
