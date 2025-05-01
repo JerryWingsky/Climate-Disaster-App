@@ -103,10 +103,14 @@
 
 ## Coding Information 🛠
 Frontend:
-- Java Swing (JFrame, JPanel, JButton, JTextField, JLabel, JOptionPane, etc).
+- JavaFX (Stage, Scene, JButton, Label, Button, EventHandler, MediaPlayer, etc).
+- Custom 8-bit pixel art for UI & entities (Player, Zombies, Buttons, etc).
 
 Backend:
 - Java (if-else, switch, ArrayList, try-catch, etc).
+- Object Oriented Programming (OOP) Concepts (Classes, Inheritance, etc).
+- Entity Management using gamePanel, Level, and Entity class structure.
+- Handling all the data & levels using an Array.
 
 ## Contributors 👥
 1. Jerry Wingsky ([@jrywsky](https://linktr.ee/JerryWingsky)) - Backend Web Developer, Frontend Web Developer, UI/EX Designer, and Documentation
