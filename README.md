@@ -4,7 +4,7 @@
 
 ## Overview ✨ 
 
-**Climate Disaster App**, an intelligent environmental app designed to help you navigate a world facing climate uncertainty. Whether you're tracking disasters, learning how to stay safe, or raising awareness, this app stands by your side—informative, responsive, and built with care. With the Climate Disaster App, preparedness isn’t just practical—it’s empowering.
+**Climate Disaster App**, an intelligent environmental app designed to help you navigate a world facing climate uncertainty. Whether you're tracking disasters, learning how to stay safe, or raising awareness, this app stands by your side—informative, responsive, and built with care. With the **Climate Disaster App**, preparedness isn’t just practical—it’s empowering.
 
 ## Features ⬇️
 **1. 👤 Admin Registration**
@@ -29,7 +29,7 @@
 
 **3. 🌪️ Disaster Report**
 
-- Allows users to instantly report ongoing disasters (like floods, earthquakes, fires, etc.). This feature is critical for real-time situational awareness, helping authorities & communities respond faster to emergencies.
+- Allows users to instantly report ongoing disasters (Like Floods, Earthquakes, Fires, etc). This feature is critical for real-time situational awareness, helping authorities & communities respond faster to emergencies.
 
 <p align="center">
 <img src="https://github.com/user-attachments/assets/1187a7f8-30b4-4295-8892-d5ca7cd5214d" width="500"/>
@@ -59,13 +59,7 @@
 
 **6. 📝 Disaster Guide**
 
-- Offers helpful information before, during, and after disasters like Emergency Numbers, etc.
-
-<p align="center">
-<img src="https://github.com/user-attachments/assets/f3d38b2c-35cd-4acf-8d39-549c4de46706" width="500"/>
-<br/>
-<strong><em>Figure 6: Fund Raising Screen</em></strong>
-</p>
+- Offers helpful information before, during, and after disasters.
 
 <p align="center">
 <img src="https://github.com/user-attachments/assets/f5569ac7-9d27-4936-916f-9248f8ee1116" width="500"/>
@@ -80,13 +74,13 @@
 </p>
 
 <p align="center">
-<img src="https://github.com/user-attachments/assets/9c131b64-735f-48fb-b7d6-b8d25c42d192" width="500"/>
+<img src="https://github.com/user-attachments/assets/26226d4a-90f6-4563-9f13-b61e34e0f353" width="500"/>
 <br/>
 <strong><em>Figure 6.3: Disaster Preparedness Guide Screen</em></strong>
 </p>
 
 <p align="center">
-<img src="https://github.com/user-attachments/assets/3b38f746-d38e-466f-a1eb-a4cdcdc5e066" width="500"/>
+<img src="https://github.com/user-attachments/assets/500435f9-cfc3-4ede-a85b-0f6526b18bc0" width="500"/>
 <br/>
 <strong><em>Figure 6.4: Disaster Recovery Guide Screen</em></strong>
 </p>
