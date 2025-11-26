@@ -4,7 +4,7 @@
 
 ## Overview ✨ 
 
-**Climate Disaster App**, an Intelligent Environmental App designed to help you navigate a world facing climate uncertainty. Whether you're **Tracking Disasters**, **Learning How to Stay Safe**, or **Raising Awareness**, this app stands by your **Side—Informative**, **Responsive**, and **Built With Care**. With the **Climate Disaster App**, preparedness isn’t just practical—it’s empowering.
+**Climate Disaster App**, an **Intelligent Environmental App** designed to help you navigate a world facing climate uncertainty. Whether you're **Tracking Disasters**, **Learning How to Stay Safe**, or **Raising Awareness**, this app stands by your **Side—Informative**, **Responsive**, and **Built With Care**. With the **Climate Disaster App**, preparedness isn’t just practical—it’s empowering.
 
 ## Features ⬇️
 **1. 👤 Admin Registration**
