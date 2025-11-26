@@ -103,5 +103,5 @@ Back-End:
 - Java (`if-else`, `switch`, `ArrayList`, `try-catch`, etc).
 
 ## Contributors 👥
-1. Jerry Wingsky ([@jrywsky](https://linktr.ee/JerryWingsky)) - Backend Web Developer, Frontend Web Developer, UI/EX Designer, and Documentation
-2. Kelvin ([Kelvin](https://github.com/posturecheck)) - Frontend Web Developer & Documentation
+1. Jerry Wingsky ([@jrywsky](https://linktr.ee/JerryWingsky)) - Backend Web Developer, Frontend Web Developer, UI/EX Designer, and Documentation.
+2. Kelvin ([Kelvin](https://github.com/posturecheck)) - Frontend Web Developer & Documentation.
