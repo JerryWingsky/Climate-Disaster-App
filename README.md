@@ -9,7 +9,7 @@
 ## Features ⬇️
 **1. 👤 Admin Registration**
 
-- Allows the system to have an **Authenticated Admin** who can **Manage & Oversee Disaster-Related Information**. **Registering Admins** ensures that only authorized personnel can access **Sensitive Data**, **Enhancing Data Control**, and **System Integrity**.
+- Allows the system to have an **Authenticated Admin** who can **Manage & Oversee Disaster-Related Information**. **Registering Admins** ensures that only **Authorized Personnel** can access **Sensitive Data**, **Enhancing Data Control**, and **System Integrity**.
 
 <p align="center">
 <img src="https://github.com/user-attachments/assets/359ada6b-c657-4594-8f02-d620aae0aa20" width="500"/>
@@ -19,7 +19,7 @@
 
 **2. 🖐️ Volunteer Registration**
 
-- Enables individuals to sign up as volunteers during **Climate Disasters**. This creates helpers that can **Support Rescue & Recovery Efforts**.
+- Enables **Individuals** to **Sign Up** as **Volunteers** during **Climate Disasters**. This creates helpers that can **Support Rescue & Recovery Efforts**.
 
 <p align="center">
 <img src="https://github.com/user-attachments/assets/cc4c3583-45c9-4fbf-8bc2-dd05e26d0e8b" width="500"/>
@@ -29,7 +29,7 @@
 
 **3. 🌪️ Disaster Report**
 
-- Allows users to instantly report ongoing disasters (Like Floods, Earthquakes, Fires, etc). This feature is critical for **Real-Time Situational Awareness**, **Helping Authorities**, and **Communities Respond Faster to Emergencies**.
+- Allows **Users** to instantly **Report Ongoing Disasters** (Like **Floods**, **Earthquakes**, **Fires**, etc). This feature is critical for **Real-Time Situational Awareness**, **Helping Authorities**, and **Communities Respond Faster to Emergencies**.
 
 <p align="center">
 <img src="https://github.com/user-attachments/assets/1187a7f8-30b4-4295-8892-d5ca7cd5214d" width="500"/>
@@ -39,7 +39,7 @@
 
 **4. 🏘️ Safe Shelter**
 
-- Provides users with a directory of nearby **Safe Shelters**. This feature supports **Evacuation Planning & Helps Reduce Panic** by offering **Clear Guidance** during **Emergencies**.
+- Provides **Users** with a directory of nearby **Safe Shelters**. This feature supports **Evacuation Planning & Helps Reduce Panic** by offering **Clear Guidance** during **Emergencies**.
 
 <p align="center">
 <img src="https://github.com/user-attachments/assets/888da608-9123-4824-b7d0-e1ad38cb8edb" width="500"/>
@@ -59,7 +59,7 @@
 
 **6. 📝 Disaster Guide**
 
-- Offers helpful information before, during, and after disasters.
+- Offers **Helpful Information Before**, **During**, and **After Disasters**.
 
 <p align="center">
 <img src="https://github.com/user-attachments/assets/f5569ac7-9d27-4936-916f-9248f8ee1116" width="500"/>
@@ -87,7 +87,7 @@
 
 **7. 🌤️ Weather Prediction**
 
-- Simulates upcoming weather conditions (Sunny, Cloudy, Rainy, and Stormy) with forecast dates. Even if it's random, this feature teaches us to consider **Weather Awareness in Daily Life & Prepare For the Worst-Case Scenario**.
+- Simulates **Upcoming Weather Conditions** (**Sunny**, **Cloudy**, **Rainy**, and **Stormy**) with **Forecast Dates**. Even if it's random, this feature teaches us to consider **Weather Awareness in Daily Life & Prepare For the Worst-Case Scenario**.
 
 <p align="center">
 <img src="https://github.com/user-attachments/assets/52efb644-a13c-4c86-9f91-1aee804660a8" width="500"/>
