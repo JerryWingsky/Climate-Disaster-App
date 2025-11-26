@@ -1,15 +1,15 @@
 # Climate Disaster App ⚙️
 
-📄 Licensed under CC BY-NC 4.0 — For educational & non-commercial use only.
+📄 Licensed under CC BY-NC 4.0 — For Educational & Non-Commercial Use Only.
 
 ## Overview ✨ 
 
-**Climate Disaster App**, an intelligent environmental app designed to help you navigate a world facing climate uncertainty. Whether you're tracking disasters, learning how to stay safe, or raising awareness, this app stands by your side—informative, responsive, and built with care. With the **Climate Disaster App**, preparedness isn’t just practical—it’s empowering.
+**Climate Disaster App**, an Intelligent Environmental App designed to help you navigate a world facing climate uncertainty. Whether you're Tracking Disasters, Learning How to Stay Safe, or Raising Awareness, this app stands by your Side—Informative, Responsive, and Built With Care. With the **Climate Disaster App**, preparedness isn’t just practical—it’s empowering.
 
 ## Features ⬇️
 **1. 👤 Admin Registration**
 
-- Allows the system to have authenticated admin who can manage & oversee disaster-related information. Registering admins ensures that only authorized personnel can access sensitive data, enhancing data control, and system integrity.
+- Allows the system to have an Authenticated Admin who can Manage & Oversee Disaster-Related Information. Registering Admins ensures that only authorized personnel can access Sensitive Data, Enhancing Data Control, and System Integrity.
 
 <p align="center">
 <img src="https://github.com/user-attachments/assets/359ada6b-c657-4594-8f02-d620aae0aa20" width="500"/>
@@ -19,7 +19,7 @@
 
 **2. 🖐️ Volunteer Registration**
 
-- Enables individuals to sign up as volunteers during climate disasters. This creates helpers that can support rescue & recovery efforts.
+- Enables individuals to sign up as volunteers during Climate Disasters. This creates helpers that can Support Rescue & Recovery Efforts.
 
 <p align="center">
 <img src="https://github.com/user-attachments/assets/cc4c3583-45c9-4fbf-8bc2-dd05e26d0e8b" width="500"/>
@@ -29,7 +29,7 @@
 
 **3. 🌪️ Disaster Report**
 
-- Allows users to instantly report ongoing disasters (Like Floods, Earthquakes, Fires, etc). This feature is critical for real-time situational awareness, helping authorities & communities respond faster to emergencies.
+- Allows users to instantly report ongoing disasters (Like Floods, Earthquakes, Fires, etc). This feature is critical for Real-Time Situational Awareness, Helping Authorities, and Communities Respond Faster to Emergencies.
 
 <p align="center">
 <img src="https://github.com/user-attachments/assets/1187a7f8-30b4-4295-8892-d5ca7cd5214d" width="500"/>
@@ -39,7 +39,7 @@
 
 **4. 🏘️ Safe Shelter**
 
-- Provides users with a directory of nearby safe shelters. This feature supports evacuation planning & helps reduce panic by offering clear guidance during emergencies.
+- Provides users with a directory of nearby Safe Shelters. This feature supports Evacuation Planning & Helps Reduce Panic by offering Clear Guidance during Emergencies.
 
 <p align="center">
 <img src="https://github.com/user-attachments/assets/888da608-9123-4824-b7d0-e1ad38cb8edb" width="500"/>
@@ -49,7 +49,7 @@
 
 **5. 💵 Fund Raising**
 
-- Allows users to donate to support disaster relief efforts.
+- Allows users to Donate & Support Disaster Relief Efforts.
 
 <p align="center">
 <img src="https://github.com/user-attachments/assets/f3d38b2c-35cd-4acf-8d39-549c4de46706" width="500"/>
@@ -87,7 +87,7 @@
 
 **7. 🌤️ Weather Prediction**
 
-- Simulates upcoming weather conditions (Sunny, Cloudy, Rainy, and Stormy) with forecast dates. Even if it's random, this feature teaches us to consider weather awareness in daily life & prepare for the worst-case scenario.
+- Simulates upcoming weather conditions (Sunny, Cloudy, Rainy, and Stormy) with forecast dates. Even if it's random, this feature teaches us to consider Weather Awareness in Daily Life & Prepare For the Worst-Case Scenario.
 
 <p align="center">
 <img src="https://github.com/user-attachments/assets/52efb644-a13c-4c86-9f91-1aee804660a8" width="500"/>
