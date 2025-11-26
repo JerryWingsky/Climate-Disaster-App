@@ -49,7 +49,7 @@
 
 **5. 💵 Fund Raising**
 
-- Allows users to **Donate** & **Support Disaster Relief Efforts**.
+- Allows **Users** to **Donate** & **Support Disaster Relief Efforts**.
 
 <p align="center">
 <img src="https://github.com/user-attachments/assets/f3d38b2c-35cd-4acf-8d39-549c4de46706" width="500"/>
